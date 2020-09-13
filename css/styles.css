@@ -1,0 +1,7 @@
+@import "./libs/normalize.css";
+@import "./libs/fonts.css";
+@import "./libs/vars.css";
+@import "./libs/utils.css";
+@import "./components/header.css";
+@import "./components/main.css";
+@import "./components/footer.css";
